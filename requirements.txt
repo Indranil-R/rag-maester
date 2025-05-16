@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+pypdf
+streamlit
+transformers
+# https://www.textfixer.com/tools/alphabetical-order.php
