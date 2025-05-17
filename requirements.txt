@@ -5,5 +5,6 @@ langchain-google-genai
 langchain-text-splitters
 pypdf
 streamlit
-transformers
+loguru
+google.colab
 # https://www.textfixer.com/tools/alphabetical-order.php
