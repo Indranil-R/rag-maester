@@ -6,5 +6,5 @@ langchain-text-splitters
 pypdf
 streamlit
 loguru
-google.colab
+gradio
 # https://www.textfixer.com/tools/alphabetical-order.php
